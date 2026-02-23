@@ -1,5 +1,5 @@
 // version
-v0.1
+v0.1.1
 
 // menu
 DwarfedMenu.wav
@@ -7,3 +7,43 @@ DwarfedMenu.wav
 // gameplay
 null
 null
+
+// sfx
+
+//1
+null
+null
+//2
+null
+null
+//3
+null
+null
+//4
+null
+null
+//5
+null
+null
+//6
+null
+null
+//7
+null
+null
+//8
+null
+null
+// chestOpen
+sfx.chestOpen.ogg
+null
+// chestClose
+sfx.chestClose.ogg
+null
+//11
+null
+null
+//12
+null
+null
+//13
